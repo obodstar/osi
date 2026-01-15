@@ -1,4 +1,3 @@
 v:
 :v
-hai ini di akun pertama
-konten ke 1
+testing 1
