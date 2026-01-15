@@ -92,7 +92,9 @@ class instagram:
 
 
 if __name__ == "__main__":
+    print("tesaja");
     users = input("[+] Masukan Username : ")
     password = input("[+] Masukan Password : ")
     mo = instagram()
     mo.logins(users, password)
+
