@@ -1,4 +1,3 @@
 v:
 :v
-hari ke 2
-kontenn ke 2 saya
+testing
